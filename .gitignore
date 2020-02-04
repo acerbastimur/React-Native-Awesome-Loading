@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# Node & NPM & Yarn
+node_modules/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo

@@ -1,0 +1,11 @@
+{
+  "name": "awesomeloading",
+  "version": "1.0.6",
+  "description": "Beautiful loading indicators for React Native ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+ }

@@ -32,7 +32,7 @@ $ pod install
 ```
 ### Usage
 
-```
+```javascript
 import AwesomeLoading from 'awesomeloading';
 
 ...

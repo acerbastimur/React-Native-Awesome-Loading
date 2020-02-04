@@ -30,6 +30,16 @@ $ cd ios
 $ pod install
  
 ```
+### Usage
+
+```
+import AwesomeLoading from 'awesomeloading';
+
+...
+
+        <AwesomeLoading indicatorId={8} size={50} isActive={true} text="loading" />
+
+```
 ### Props
 
 | Prop  | Type | Default Value |

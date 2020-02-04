@@ -1,52 +1,53 @@
 ![headLogo](https://user-images.githubusercontent.com/33218120/73749960-6afa0900-476d-11ea-817b-5dcad123e134.png)
 
 
-Project Title - Readme.md HTML Template
+React Native Awesome Loading
 =======================================
+Simple React Native library to have *awesome* loading indicators.
 
-Intro - Boilerplate for Readme.md on Github
+### Indicators:
+<div>
+<img src="https://user-images.githubusercontent.com/33218120/73750983-38e9a680-476f-11ea-994d-0192eff3d550.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750984-39823d00-476f-11ea-83d6-e7961920050d.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750985-39823d00-476f-11ea-82b4-dd9917b9e710.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750986-39823d00-476f-11ea-95d6-8074993e2285.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750987-39823d00-476f-11ea-9f3b-5164f0433005.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750988-3a1ad380-476f-11ea-9516-404e92c647bf.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750989-3a1ad380-476f-11ea-909e-7eca78bff797.gif" width="320" height="auto" />
+<img src="https://user-images.githubusercontent.com/33218120/73750990-3a1ad380-476f-11ea-8880-478abad5fd57.gif" width="320" height="auto" />
+</div>
 
-* * *
+ 
 
-Describe you project -> I hate to always "reinvent" README.md on GitHub that is why I decided to make this Starter README.md template. Also I prefer HTML syntax because I use HTML every day and it has some extra features like center the elements.
-
-### List of features
-
-*   Beautiful Starter Template for README.md
-*   Key feature num. 2
-*   Key feature num. 3
-*   Key feature num. 4
-
-### Demo -> Show me what you got
-
-[Link to your awesome Demo](#) 
-
-[Another Link to your awesome Demo](#)
-
-### Code Demo
-
-```html We will use markdown for the Syntax Highlighting
-
-<li>Beautiful Starter Template for README.md</li>
-<li>Key feature num. 2</li>
-<li>Key feature num. 3</li>
-<li>Key feature num. 4</li>
-
-```
+ 
 
 ### Download & Installation
 
 ```shell 
-$ npm i boilerplate-readme-template 
+$ npm i react-native-fast-image
+$ npm i awesomeloading
+$ cd ios
+$ pod install
+ 
 ```
+### Props
 
+| Prop  | Type | Default Value |
+| ------------- | ------------- | ------------- |
+| indicatorId  | number(1,2,3,4,5,6,7,8)  | 1  |
+| isActive  | boolean (required) | false  |
+| size  | number | 50  |
+| text  | string | null  |
+| textStyle  | TextStyle | null  |
+| direction  | 'row' | 'column' | 'column'  |
+ 
 ### Contributing
 
-Keep it simple. Keep it minimal. Don't put every single feature just because you can.
+You can open an issue to warn me :)
 
 ### Authors or Acknowledgments
 
-*   Vladimir Carrer
+*   Umut Acerbastimur
 
 ### License
 

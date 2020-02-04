@@ -127,7 +127,7 @@ export default class AwesomeLoading extends React.Component<
           elevation: 1,
         }}>
         {this.renderIndicator(indicatorId, size)}
-        {text ? <Text style={textStyle}>Loading</Text> : null}
+        {text ? <Text style={textStyle}>{text}</Text> : null}
       </View>
     ) : null;
   }

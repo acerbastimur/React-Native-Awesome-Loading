@@ -49,7 +49,7 @@ import AwesomeLoading from 'awesomeloading';
 | size  | number | 50  |
 | text  | string | null  |
 | textStyle  | TextStyle | null  |
-| direction  | 'row' | 'column' | 'column'  |
+| direction  | 'row','column' | 'column'  |
  
 ### Contributing
 

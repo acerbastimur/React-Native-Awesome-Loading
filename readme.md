@@ -74,7 +74,7 @@ import AwesomeLoading from 'awesomeloading';
 
 | Prop  | Type | Default Value |
 | ------------- | ------------- | ------------- |
-| indicatorId  | number(1,2,3,4,5,6,7,8)  | 1  |
+| indicatorId  | number(1 - 20)  | 1  |
 | isActive  | boolean (required) | false  |
 | size  | number | 50  |
 | text  | string | null  |

@@ -29,7 +29,6 @@ Simple React Native library to have *awesome* loading indicators.
  
  <img src="https://user-images.githubusercontent.com/33218120/73879706-04a8df80-486e-11ea-83e4-8d7481378793.gif" width="270" height="auto" />
  
- <img src="https://user-images.githubusercontent.com/33218120/73879706-04a8df80-486e-11ea-83e4-8d7481378793.gif" width="270" height="auto" />
  
  <img src="https://user-images.githubusercontent.com/33218120/73879708-05da0c80-486e-11ea-9159-6673d6282c9c.gif" width="270" height="auto" />
  

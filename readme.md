@@ -1,3 +1,4 @@
+[![npm](https://img.shields.io/npm/dt/awesomeloading.svg)](https://www.npmjs.com/package/awesomeloading)
 ![headLogo](https://user-images.githubusercontent.com/33218120/73749960-6afa0900-476d-11ea-817b-5dcad123e134.png)
 
 

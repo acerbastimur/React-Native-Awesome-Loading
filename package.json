@@ -1,6 +1,6 @@
 {
   "name": "awesomeloading",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Beautiful loading indicators for React Native ",
   "main": "index.ts",
   "scripts": {

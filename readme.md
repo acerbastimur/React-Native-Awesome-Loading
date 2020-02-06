@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/dt/awesomeloading.svg)](https://www.npmjs.com/package/awesomeloading)
+[![npm](https://img.shields.io/npm/dt/react-native-awesome-loading.svg)](https://www.npmjs.com/package/react-native-awesome-loading)
 ![headLogo](https://user-images.githubusercontent.com/33218120/73749960-6afa0900-476d-11ea-817b-5dcad123e134.png)
 
 
@@ -55,7 +55,7 @@ Simple React Native library to have *awesome* loading indicators.
 
 ```shell 
 $ npm i react-native-fast-image
-$ npm i awesomeloading
+$ npm i react-native-awesome-loading
 $ cd ios
 $ pod install
  

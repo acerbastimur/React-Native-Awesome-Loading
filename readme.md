@@ -63,7 +63,7 @@ $ pod install
 ### Usage
 
 ```javascript
-import AwesomeLoading from 'awesomeloading';
+import AwesomeLoading from 'react-native-awesome-loading';
 
 ...
 

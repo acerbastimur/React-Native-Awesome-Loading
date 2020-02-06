@@ -1,11 +1,31 @@
 {
-  "name": "awesomeloading",
-  "version": "1.0.10",
+  "name": "react-native-awesome-loading",
+  "version": "1.0.13",
   "description": "Beautiful loading indicators for React Native ",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
- }
+  "author": "uacer0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acerbastimur/React-native-Awesome-Loading.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "ios",
+    "loading",
+    "spinner",
+    "progress",
+    "reactnative",
+    "loading-animation",
+    "spinner"
+  ],
+  "bugs": {
+    "url": "https://github.com/acerbastimur/React-native-Awesome-Loading/issues"
+  },
+  "homepage": "https://github.com/acerbastimur/React-native-Awesome-Loading#readme"
+}
